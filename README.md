@@ -1,13 +1,9 @@
-# React app TO-DO List
+# My Portfolio Project
 
-### This is the basic react to-do list web app with Class Component.
+### I have explored functional component, Hooks, Browser router, Pagination and etc...
 
-## Features
-  * Create event
-  * Delete event
-  * Done-event History
-  * Alert when you add duplicate data into the to-do list
-  * event can move to done with clicking checkbox
+##For designing, I have explored container, card, container-fluid and etc...
+
 
 ## In the project directory, you can run:
 
